@@ -1,0 +1,29 @@
+Literal - Aisi value jiski value humesa same rahegi change nahi hogi waise value ko hum kahte hai lterals 
+(Those values that remain constant and can't change further) 
+Literal values are universal and remain constant.
+
+Num literals - 1 2 3 4 5 etc
+Char literals - 'a'  'b'  'c'  '@'  '*'
+
+
+In java  there are two types of values variables and literals
+
+
+Identifiers (Name) - can be variables name, JavaBasic(class example), main, print, println etc
+
+
+Data Types In java - Primitive(Exist itself) >> There are 8 primitive data types like int,char,long etc
+Non Primitive(User have to create like array, string, graph, tree etc) >> It can also be classified as linear or non-linear (hearichal).
+All data types start with small letters.
+
+
+Java, C++ are typed language
+
+
+int ka bahut bada form ho >>>>stores in  "long"
+float ka bahut bada form ho >>>> stores in "double"
+
+String input = sc.next();
+System.out.printn(input) 
+user input -> Tonny Stark 
+Output >>>> Tony {because sc.next ignores things after a space, so in that case we need to use sc.nextLine();}

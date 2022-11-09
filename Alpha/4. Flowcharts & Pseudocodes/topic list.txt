@@ -1,0 +1,9 @@
+1. What are flow charts?
+2. Flowcharts Compnents
+3. Sum of 2 Numbers
+4. Calculate Simple Interest
+5. Max of 3 Numbers
+6. Find if a Number is Prime or not
+7. Sum of N natural numbers
+
+Practice Questions (There are 5 Ques)

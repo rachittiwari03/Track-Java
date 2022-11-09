@@ -1,0 +1,18 @@
+1. Creating Java File (.java)
+2. Biolerplate Code
+3. Output in Java
+4. Print a Pattern 
+5. Variables in Java
+6. Data types in Java
+7. Sum of a & b
+8. Comments in Java
+9. Input in Java 
+10. Sum of a & b (Input from user)
+11. Product of a & b
+12. Area of Circle
+13. Type Conversion
+14. Type Casting
+15. Type Promotion in Expression
+16. How does Java Code run?
+
+Practice Question (There are 5 questions)
