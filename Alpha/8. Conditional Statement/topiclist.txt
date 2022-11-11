@@ -1,0 +1,6 @@
+Conditional Statements: >>> if else,  else if,  ternary operator,  &  switch operator.
+
+syntax of above operators
+
+9 example questions
+5 practice questoins
